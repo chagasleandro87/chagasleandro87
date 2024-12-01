@@ -19,7 +19,7 @@
 - ☕ Já disse que amo um cafézinho?
 - 💻 <a href="https://portfolio-my-omega.vercel.app/">Meu portifólio dev</a>.
 
-- ✉ Contact-me e-mail: leandrosrs2012@gmail.com
+- ✉ Contact-me e-mail: leandro_sr20@yahoo.com.br
 <div>
 <h2>• Technology I'm Studying 📚</h2>
 </div>
