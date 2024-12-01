@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 ### Hi! I'm Leandro Chagas 🤙
 ![](https://visitor-badge.glitch.me/badge?page_id=chagasleandro-github&left_color=gray&right_color=blueviolet&left_text=Visitors)
@@ -12,11 +12,11 @@
     
 </br>
 
-- 🔍 Atualmente focado em Front-end;
-- 📚 Fortalecendo fundamentos do desenvolvimento no momento;
+- 🔍 Atualmente focado em Front-end
+- 📚 Fortalecendo fundamentos do desenvolvimento no momento
 - 🙋🏾‍♂️ Pronomes: ele/dele;
-- 💡 Viso um dia mudar o meio social com soluções tecnológicas;
-- ☕ Já disse que amo um cafézinho?;
+- 💡 Viso um dia mudar o meio social com soluções tecnológicas
+- ☕ Já disse que amo um cafézinho?
 - 💻 <a href="https://portfolio-my-omega.vercel.app/">Meu portifólio dev</a>.
 
 - ✉ Contact-me e-mail: leandrosrs2012@gmail.com
